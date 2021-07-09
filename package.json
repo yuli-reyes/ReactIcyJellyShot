@@ -12,7 +12,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "http://yuli-reyes.github.io/IcyJellyShot",
+  "homepage": "http://yuli-reyes.github.io/ReactIcyJellyShot",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",

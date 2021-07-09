@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ReactIcyJellyShot/static/css/main.4f93fcc9.chunk.css",
+    "main.js": "/ReactIcyJellyShot/static/js/main.3790c0f8.chunk.js",
+    "main.js.map": "/ReactIcyJellyShot/static/js/main.3790c0f8.chunk.js.map",
+    "runtime-main.js": "/ReactIcyJellyShot/static/js/runtime-main.084dd6a4.js",
+    "runtime-main.js.map": "/ReactIcyJellyShot/static/js/runtime-main.084dd6a4.js.map",
+    "static/js/2.896e3a76.chunk.js": "/ReactIcyJellyShot/static/js/2.896e3a76.chunk.js",
+    "static/js/2.896e3a76.chunk.js.map": "/ReactIcyJellyShot/static/js/2.896e3a76.chunk.js.map",
+    "index.html": "/ReactIcyJellyShot/index.html",
+    "static/css/main.4f93fcc9.chunk.css.map": "/ReactIcyJellyShot/static/css/main.4f93fcc9.chunk.css.map",
+    "static/js/2.896e3a76.chunk.js.LICENSE.txt": "/ReactIcyJellyShot/static/js/2.896e3a76.chunk.js.LICENSE.txt",
+    "static/media/Pagina-Error.8227435c.png": "/ReactIcyJellyShot/static/media/Pagina-Error.8227435c.png",
+    "static/media/bluelemon.f9707569.jpg": "/ReactIcyJellyShot/static/media/bluelemon.f9707569.jpg",
+    "static/media/coctel.f134f1e2.jpg": "/ReactIcyJellyShot/static/media/coctel.f134f1e2.jpg",
+    "static/media/modalregistro.css": "/ReactIcyJellyShot/static/media/fondocolor1.7b1ad178.jpg",
+    "static/media/footer.css": "/ReactIcyJellyShot/static/media/fondofooter.155d5af6.jpg",
+    "static/media/cardcocteles.css": "/ReactIcyJellyShot/static/media/hielosbanner.7d412f88.jpg",
+    "static/media/icon-daviplata.7787468f.png": "/ReactIcyJellyShot/static/media/icon-daviplata.7787468f.png",
+    "static/media/icon-maestro.f46df38b.png": "/ReactIcyJellyShot/static/media/icon-maestro.f46df38b.png",
+    "static/media/icon-mastercard.4760bbde.png": "/ReactIcyJellyShot/static/media/icon-mastercard.4760bbde.png",
+    "static/media/icon-nequi.e7ce9c98.png": "/ReactIcyJellyShot/static/media/icon-nequi.e7ce9c98.png",
+    "static/media/imgquienes.8a8b6c64.jpg": "/ReactIcyJellyShot/static/media/imgquienes.8a8b6c64.jpg",
+    "static/media/jack-daniels.f0e80070.jpg": "/ReactIcyJellyShot/static/media/jack-daniels.f0e80070.jpg",
+    "static/media/jugosnaturales.067fff44.jpg": "/ReactIcyJellyShot/static/media/jugosnaturales.067fff44.jpg",
+    "static/media/limones.1f3cc7ba.jpg": "/ReactIcyJellyShot/static/media/limones.1f3cc7ba.jpg",
+    "static/media/logo.13c1a426.png": "/ReactIcyJellyShot/static/media/logo.13c1a426.png",
+    "static/media/pedidos1.d6b198a2.jpg": "/ReactIcyJellyShot/static/media/pedidos1.d6b198a2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.084dd6a4.js",
+    "static/js/2.896e3a76.chunk.js",
+    "static/css/main.4f93fcc9.chunk.css",
+    "static/js/main.3790c0f8.chunk.js"
+  ]
+}

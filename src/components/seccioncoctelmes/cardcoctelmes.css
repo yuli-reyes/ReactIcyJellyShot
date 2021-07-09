@@ -1,0 +1,63 @@
+#coctelmes{
+
+	background-color: #fbceb2;
+}
+
+
+#coctelmes .container{
+	align-items: center;
+
+}
+#coctelmes h1{
+	padding-top:3rem;
+	text-align: center;
+}
+
+#coctelmes h2{
+	text-align: center;
+	padding-bottom: 2rem;
+
+}
+
+.card-text{
+	text-align: justify;
+
+}
+.icon1 {
+	height: 48px;
+
+}
+
+.icon1, .icon2{
+	margin-right: 15px;
+}
+
+.cardmes {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-clip: border-box;
+  border:none;
+  border-radius: 0.25rem;
+  background-color:#fbceb2;
+  align-items: center;
+}
+
+.card-body{
+	align-items: center;
+	width: 14rem;
+	padding: 20px 0px 20px 0px;
+
+}
+
+.card-img-top{
+	width: 14rem;
+	margin:0px 10px 0px 10px;
+	box-shadow: 9px 9px 8px rgba(0, 0, 0, 0.4);
+
+}
+.py-5 {
+  padding-bottom: 0rem !important;
+}

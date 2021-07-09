@@ -1,0 +1,97 @@
+#banner1{
+
+	background-image: url(./imagenes/hielosbanner.jpg);
+	min-height: 200px;
+	max-height: 200px;
+	font-size: 400px;
+}
+
+
+.titulobebida{
+	color: #FF914D;
+	text-align: center;
+	font-weight: bold;
+}
+.infococtel{
+	text-align: center;
+	color: #5DC1B9;
+}
+
+.cajacatalogo{
+	position: relative;	
+	justify-content: center;
+	margin-top: 100px;
+	align-items: center;
+	
+}
+.mt-4{
+	margin-top: 4.5rem!important;
+}
+
+
+.cajacatalogo .card{
+	position: relative;	
+	background: transparent;	
+	transition:0.3s ease-in-out;
+	border: none;
+	
+} 
+ 
+
+.cajacatalogo .card .imgBx{
+	position: relative;
+	top: -60px;
+	z-index: 1;
+	margin: auto;
+}
+
+.cajacatalogo .card .imgBx img{
+	max-width: 150px;
+	width: 100%;
+	border-radius: 4px;
+}
+
+.cajacatalogo .card .content{
+	position: relative;
+	margin-top: -140px;
+	padding: 10px 15px;
+	color: #111;
+	visibility: hidden;
+	opacity: 0;
+	transition: 0.3s ease-in-out;
+	text-align: center;
+}
+.cajacatalogo .card:hover .content{
+	visibility: visible;
+	opacity: 1;
+	margin-top: -40px;
+	transition-delay: 0.3s;
+}
+
+.cajacatalogo .card .content p{
+	text-align:center;
+}
+.cajacatalogo .card .content h3{
+	text-align:center;
+}
+.btn-primary{
+	background-color: #5DC1B9;
+	color: #FFF;
+	font-weight: bold;
+	border:1px solid #5DC1B9;
+	border-radius: 5px;
+	box-shadow: 2px 2px 8px #000000;
+	align-items:flex-start;
+
+}
+
+.btn-primary:hover{
+
+	background-color:#FF914D;
+	color: #000000;
+	border:1px solid #FF914D;
+	font-weight: bold;
+	border-radius: 5px;
+	box-shadow: 2px 2px 8px #000000;
+}
+

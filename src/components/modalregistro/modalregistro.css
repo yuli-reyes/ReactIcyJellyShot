@@ -1,0 +1,96 @@
+.modal-header .btn-close {
+  padding: 0.5rem 0.5rem;
+  margin: -0.5rem -0.5rem -0.5rem auto;
+}
+.modal-header {
+  display: flex;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.textregis1,.textregis2{
+	text-align: center;
+
+}
+.textregis1{
+	color: #FF7D26;
+	font-weight: 700;
+}
+
+.textregis2{
+	margin: 0px 35px;
+}
+
+.textcolor1{
+	font-weight:700;
+}
+
+.closeregis{
+	background-color: white;
+}
+
+.modal-border{
+	border-bottom: none;
+}
+
+.tamanomodal{
+	max-width: 900px;
+	width: 100%;
+
+}
+
+.form-check{
+	padding-left: 0px;
+}
+
+.color1-regis{
+	background-image: url(./fondocolor1.jpg);
+	width: 100%;
+
+}
+
+.fondoleft{
+	padding: 0;
+}
+
+
+.botonregis{
+		align-items: center;
+		  display: flex;
+		  justify-content: center;
+}
+.botonregis button{
+	margin-top: 40px;
+	font-size: 18px;
+	font-weight: 600;
+	color: #FFFFFF;
+	width: 40%;
+	margin: 20px auto;	
+	padding: 10px;
+	border-radius: 6px;
+	background: #5DC1B9;
+	box-shadow:  2px 2px 4px black;
+		
+}
+
+.botonregis button:hover{
+		background-color: #FF914D;
+		color: #000000;
+	}
+
+.soymiem{
+	text-align: center;
+	margin: 0px;
+}
+
+.enlace{
+	color: #FF914D;
+	font-size: 18px;
+	font-weight: 500;
+	margin: 0px;
+}
+
+.enlace:hover{
+	color: #5DC1B9;
+}

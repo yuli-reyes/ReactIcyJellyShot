@@ -1,0 +1,144 @@
+{
+	"smoothies": [
+		{
+			"id": 9,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugonatural.png",
+	        "title":"ORANGE",
+	        "icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Ingredientes naturales para revitalizar tu piel.",
+			"iconp1":"Vitamina C",
+	        "iconp2":"Naranja",
+	        "iconp3":"Cerezas",
+	        "iconp4":"Frutos secos",
+			"iconp5":"Miel",
+	        "descri":"La mejor elección para un día caluroso. Refrescante y un poderoso antioxidante, gracias a la gran cantidad de vitamina C que contiene. Favorece la cicatrización, y el sistema inmunológico de nuestro cuerpo.Tamaño:12 Onzas"
+		},
+    
+        {
+			"id": 10,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugolimon.png",
+	        "title":"LEMON",
+	        "icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Contiene vitamina C y es un poderoso antioxidante.",
+			"iconp1":"Vitamina C",
+	        "iconp2":"Antioxidante",
+	        "iconp3":"Limón",
+	        "iconp4":"Menta",
+	        "iconp5":"Cerezas",
+	        "iconp6":"Miel",
+	        "descri":"Los antioxidantes de este smoothie ayuda a proteger las células del cuerpo. Al reducir el daño celular, los antioxidantes reducen el riesgo de muchas condiciones médicas, como enfermedades cardiovasculares, diabetes, obesidad y cáncer.Tamaño:12 Onzas"
+		},
+
+		{
+			"id":11,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugorojo.png",
+			"title":"BLUEBERRY",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Ayuda a reducir el colesterol 'malo'.",
+			"iconp1":"Fibra",
+	        "iconp2":"Antioxidantes",
+	        "iconp3":"Frutos rojos",
+	        "iconp4":"Cereales",
+	        "iconp5":"Frutos secos",
+	        "descri":"Es un smoothie rico en fibra, bajo en calorías y fuente de agentes antiinflamatorios y antioxidantes. Previene enfermedades del corazón e incrementan el colesterol bueno.Tamaño:12 Onzas"
+			
+		},
+		{
+			"id":12,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugouva.png",
+			"title":"BLACKBERRY",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Explosión de sabores saludables y nutritivos.",
+			"iconp1":"Vitamina C",
+	        "iconp2":"Mora",
+	        "iconp3":"Arandanos",
+	        "iconp4":"Cereales",
+	        "iconp5":"Yogurt griego",
+	        "descri":"Perfecto para cualquier hora del día. Aporta a la salud un alto contenido de vitamina C, además de propiedades antioxidantes, ayuda a cuidar la piel de enfermedades.Tamaño:12 Onzas"
+			
+		},
+		{
+			"id":13,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugofresa.png",
+			"title":"STRAWBERRY",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Ayuda a mantener el intestino saludable.",
+			"iconop1":"Proteína",
+			"iconp2":"Hierro",
+			"iconp3":"Fresas",
+			"icon4":"Yogurt Griego",
+			"iconp5":"Frutos Secos", 
+	        "descri":"Las fresas son ricas en fibra, antioxidantes, vitaminas y minerales, lo que ayuda a mantener un intestino saludable. La fibra juega un papel fundamental para ayudar a hacer la digestión y regularla.Tamaño:12 Onzas"
+			
+		},
+
+		{
+			"id":14,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugomora.png",
+			"title":"GRAPE",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Contiene potasio, cobre, hierro y calcio.",
+			"iconp1":"Vitamina C",
+			"iconp2":"Antioxidante",
+			"iconp3":"Uva",
+			"icon4":"Cerezas",
+			"iconp5":"Miel",
+	        "descri":"Los antioxidantes de este smoothie ayuda a proteger las células del cuerpo. Al reducir el daño celular, los antioxidantes reducen el riesgo de muchas condiciones médicas, como enfermedades cardiovasculares, diabetes, obesidad y cáncer.Tamaño:12 Onzas"
+			
+		},
+		{
+			"id":15,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugofeijoa.png",
+			"title":"APPLE",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Previene el cáncer y el envejecimiento.",
+			"iconp1":"Vitamina C",
+			"iconp2":"Potasio",
+			"iconp3":"Manzana",
+			"icon4":"Cereales",
+			"iconp5":"Frutos Secos",
+	        "descri":"Las uvas son ricas en antioxidantes, su índice glucémico no es alto, sino medio; son ricas en fibra en hidratos de carbono (17%) de rápida asimilación; contienen vitamina C y entre sus minerales destacan el potasio, el cobre y el hierro.Tamaño:12 Onzas"
+			
+		},
+		{
+			"id":16,
+			"img":"https://icyjellyshot.000webhostapp.com/imagenes/jugomango.png",
+			"title":"PINEAPPLE",
+			"icon1":"https://icyjellyshot.000webhostapp.com/imagenes/icon-corazon.png",
+	        "icon2":"https://icyjellyshot.000webhostapp.com/imagenes/icon-blue.png",
+	        "icon3":"https://icyjellyshot.000webhostapp.com/imagenes/icon-adicion.png",
+	        "sub":"Descripción",
+			"descripcion":"Bajo en calorías, ideal para la dieta.",
+			"iconp1":"Vitamina C",
+			"iconp2":"Magnesio",
+			"iconp3":"Piña",
+			"iconp4":"Cereales",
+			"iconp5":"Yogurt Griego",
+	        "descri":"Es un anticoagulante natural, provoca cambios beneficiosos en los glóbulos blancos de la sangre y en recientes estudios se determinó que la bromelina y los antioxidantes de la piña podrían ser anticancerígenos.Tamaño:12 Onzas"
+			
+		}
+
+		
+	]
+}
